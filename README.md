@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Kage80
-- 👀 I’m interested in Cloud Operations and Processes Management
-- 🌱 I’m currently learning Java, Kotiln, Azure DevOps CI/CD and Terraforms
-- 💞️ I’m looking to collaborate on all Cloud Operations Project and automation. 
 - 📫 How to reach me kevin.thompson@sage.com
 
 <!---
